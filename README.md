@@ -21,5 +21,5 @@ LlamaIndex equips you with essential tools:
 
 ## Who is LlamaIndex for?
 
-Whether you're a beginner or an advanced user, LlamaIndex caters to all. The high-level API allows quick integration in just five lines of code for beginners, while advanced users can dive into lower-level APIs to customize and extend every module.
+ The high-level API allows quick integration in just five lines of code for beginners, while advanced users can dive into lower-level APIs to customize and extend every module.
 
